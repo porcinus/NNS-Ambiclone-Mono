@@ -16,6 +16,7 @@ Modules are based around a [STC STC8G1K08A](https://www.stcmicro.com/stc/stc8g1k
 <img src="board/preview_rev1-a.png" title="preview"/>  
 Modules size is a little under 15x41mm, 2 layers.  
 Require 3.3v or 5v to power each boards.  
+Depending on order volume, price should land between 2 and 3 dollars per completed modules (boards from JLCPCB, components from LCSC).  
   
 - [Gerber files](board/gerber_rev1-a.zip)
 - [BOM (csv format)](board/bom_rev1-a.csv)
