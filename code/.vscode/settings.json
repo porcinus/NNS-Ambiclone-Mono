@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "fw_hal.h": "c",
+        "fw_types.h": "c",
+        "stdint.h": "c",
+        "cstdlib": "c",
+        "type_traits": "c",
+        "fw_conf.h": "c",
+        "fw_rcc.h": "c",
+        "fw_mem.h": "c",
+        "fw_exti.h": "c",
+        "fw_gpio.h": "c",
+        "sdcc-lib.h": "c",
+        "features.h": "c",
+        "fw_tim.h": "c",
+        "fw_sys.h": "c",
+        "fw_adc.h": "c",
+        "user-settings.h": "c",
+        "i2c.h": "c",
+        "main.h": "c",
+        "fw_uart.h": "c",
+        "fw_i2c.h": "c",
+        "fw_iap.h": "c",
+        "fw_spi.h": "c",
+        "fw_util.h": "c",
+        "fw_wdt.h": "c",
+        "fw_pca.h": "c",
+        "limits": "c"
+    }
+}
