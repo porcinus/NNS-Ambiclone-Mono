@@ -49,11 +49,11 @@ Firmware will be compiled to code/.pio/build/STC8G1K08A/firmware.hex
 Software used to burn the MCU is [STC ISP programming software](https://www.stcmicro.com/rjxz.html).  
   
 Depending on the Serial USB module you use, some specific wiring may be needed.  
-Sadly, the English version of the datasheet lack wiring information for peoples not using STC U8W/U8W-Mini.
+Sadly, the English version of the datasheet lack wiring information for peoples not using STC U8W/U8W-Mini.  
 If you are using a CH340 or PL2303 module (extracted from chinese datasheet, section 5.1.10, page 99):  
 <img src="code/ch340-wiring.png" title="CH340 PL2303 wiring"/>  
   
-In order to be able to burn the program (STC-ISP):
+In order to be able to burn the program (STC-ISP):  
 - Disconnect 5v wire between the Serial USB module and the board to burn.
 - Press "Download/Program".
 - Then connect the 5v wire.
